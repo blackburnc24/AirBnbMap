@@ -1,2 +1,2 @@
 # AirBnbMap
-AirBnb Map created by Caleb Blackburn
+AirBnb Map in Asheville, NC created by Caleb Blackburn
